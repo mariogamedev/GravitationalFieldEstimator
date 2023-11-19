@@ -1,4 +1,4 @@
-# .NET Console App - Celestial Body Gravitational Field Estimator
+# .NET Console App - Celestial Body Gravitational Field Estimator (v1.0.0)
 
 This console application provides estimations for the behavior of celestial bodies in a Uniform Gravitational Field.
 
